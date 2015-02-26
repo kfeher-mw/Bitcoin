@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>BlockchainAPI</id>
+    <version>1.0.3.0</version>
+    <title>Blockchain.info API v1</title>
+    <authors>Blockchain</authors>
+    <owners>Blockchain</owners>
+    <licenseUrl>https://github.com/blockchain/api-v1-client-csharp/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/blockchain/api-v1-client-csharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Official .NET library for interacting with the Blockchain.info API.</description>
+    <releaseNotes>First version of the Blockchain .NET API library</releaseNotes>
+    <copyright>Copyright 2014 Blockchain</copyright>
+    <tags>Blockchain Blockchain.info API</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="6.0.5" />
+    </dependencies>
+  </metadata>
+</package>
