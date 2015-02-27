@@ -18,3 +18,14 @@ D:\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Debug\System.Data.SQLite.xml
 D:\Visual Studio 2013\Projects\Bitcoin\Bitcoin\obj\Debug\Bitcoin.csprojResolveAssemblyReference.cache
 D:\Visual Studio 2013\Projects\Bitcoin\Bitcoin\obj\Debug\Bitcoin.exe
 D:\Visual Studio 2013\Projects\Bitcoin\Bitcoin\obj\Debug\Bitcoin.pdb
+C:\bitcoin\Bitcoin\Bitcoin\bin\Debug\Bitcoin.exe.config
+C:\bitcoin\Bitcoin\Bitcoin\obj\Debug\Bitcoin.exe
+C:\bitcoin\Bitcoin\Bitcoin\obj\Debug\Bitcoin.pdb
+C:\bitcoin\Bitcoin\Bitcoin\bin\Debug\Bitcoin.exe
+C:\bitcoin\Bitcoin\Bitcoin\bin\Debug\Bitcoin.pdb
+C:\bitcoin\Bitcoin\Bitcoin\bin\Debug\BlockchainAPI.dll
+C:\bitcoin\Bitcoin\Bitcoin\bin\Debug\Newtonsoft.Json.dll
+C:\bitcoin\Bitcoin\Bitcoin\bin\Debug\Newtonsoft.Json.xml
+C:\bitcoin\Bitcoin\Bitcoin\bin\Debug\protobuf-net.pdb
+C:\bitcoin\Bitcoin\Bitcoin\bin\Debug\protobuf-net.xml
+C:\bitcoin\Bitcoin\Bitcoin\obj\Debug\Bitcoin.csprojResolveAssemblyReference.cache
